@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @bananana0118
-- 👀 I’m interested in ... Web Front/Backend 
-- 🌱 I’m currently learning ... Java, Python, Js
-- 📫 How to reach me ...
-
+<h2>👋 Hi, Everybody!!!</h2>
+👀 I’m interested in ... Web Front/Backend 
+🌱 I’m currently learning ...React, Node.js ...etc 👊👊 as a Elice SW2 Racer!
